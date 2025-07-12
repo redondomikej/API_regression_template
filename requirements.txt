@@ -1,0 +1,12 @@
+
+newman 
+newman-reporter-html 
+newman-reporter-csv 
+--save-dev
+
+    "newman": "^6.2.1",
+    "newman-reporter-htmlextra": "^1.23.1",
+    "path": "^0.12.7"
+
+
+    csv-writer

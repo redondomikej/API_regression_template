@@ -1,0 +1,10 @@
+📄 Automation Summary Report
+Generated At     : 7/12/2025, 4:16:32 PM
+CSV Source       : C:\Users\Mike Redondo\OneDrive\Desktop\Regression Template\Report\Post_data_20250712_1616.csv
+------------------------------------
+✅ Total APIs Tested     : 2
+✅ Passed                : 2
+❌ Failed                : 0
+------------------------------------
+
+🧪 End of Report.

@@ -1,0 +1,3 @@
+iteration,scenario,actual_result,expected_result,automation_result
+"1","using valid base_url and endpoint","PASSED","PASSED","PASSED"
+"2","using invalid base_url and endpoint","FAILED","FAILED","PASSED"
